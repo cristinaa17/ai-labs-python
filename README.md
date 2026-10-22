@@ -4,7 +4,7 @@ Repository cu exerciții și aplicații practice realizate în cadrul laboratoru
 
 Proiectul reunește lucrări practice care ilustrează concepte fundamentale de programare și tehnici de inteligență artificială, de la prelucrarea datelor până la antrenarea modelelor de machine learning și lucrul cu imagini.
 
-## 📚 Conținutul repository-ului
+## Conținutul repository-ului
 
 ### Laboratorul 1 — Fundamente Python
 Exerciții introductive de programare în Python și aplicarea conceptelor de bază.
